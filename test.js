@@ -12,5 +12,6 @@ function  test() {
             break;
          }
      }
+ console.log("修改test.js文件");
  console.log(res);
 }
