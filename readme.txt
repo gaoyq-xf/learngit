@@ -11,3 +11,4 @@ test git add text open.
 git config --global http.sslVerify "true"
 ssh-keygen -t rsa -C "625033931@qq.com"
 test add .
+test 忽略某些不提交的文件

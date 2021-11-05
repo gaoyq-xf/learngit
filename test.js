@@ -14,4 +14,5 @@ function  test() {
      }
  console.log("修改test.js文件");
  console.log(res);
+    console.log("忽略text.txt文件");
 }
