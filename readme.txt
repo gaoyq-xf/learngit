@@ -13,3 +13,4 @@ ssh-keygen -t rsa -C "625033931@qq.com"
 test add .
 test 忽略某些不提交的文件
 test ssl was reset
+"add info"
