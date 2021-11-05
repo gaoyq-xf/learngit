@@ -7,4 +7,4 @@ git push some thing.
 git stash to fix bug issue-102.
 test feature.
 add a text.
-
+test git add text.
