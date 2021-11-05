@@ -8,3 +8,4 @@ git stash to fix bug issue-102.
 test feature.
 add a text.
 test git add text open.
+git config --global http.sslVerify "true"
