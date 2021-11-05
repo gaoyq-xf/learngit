@@ -9,3 +9,4 @@ test feature.
 add a text.
 test git add text open.
 git config --global http.sslVerify "true"
+ssh-keygen -t rsa -C "625033931@qq.com"
